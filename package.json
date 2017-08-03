@@ -1,0 +1,24 @@
+{
+  "name": "genprojs-sample",
+  "version": "0.0.1",
+  "description": "Sample usages for genprojs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twinfifty/genprojs-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twinfifty/genprojs-sample/issues"
+  },
+  "homepage": "https://github.com/twinfifty/genprojs-sample#readme",
+  "dependencies": {
+    "csv-parse": "^1.2.1",
+    "genprojs": "0.0.11",
+    "shuffle-array": "^1.0.1"
+  }
+}
